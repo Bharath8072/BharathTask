@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BharathTask", "MvcCoreTutorial\BharathTask.csproj", "{0F26DDBE-4D9B-4716-A805-6A4FB1E659D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F26DDBE-4D9B-4716-A805-6A4FB1E659D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F26DDBE-4D9B-4716-A805-6A4FB1E659D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F26DDBE-4D9B-4716-A805-6A4FB1E659D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F26DDBE-4D9B-4716-A805-6A4FB1E659D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF70481-7F7F-43C5-992C-F0A0F063E014}
+	EndGlobalSection
+EndGlobal
